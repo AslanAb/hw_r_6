@@ -1,0 +1,10 @@
+.completed {
+    background-color: rgb(113, 228, 113);
+    max-width: max-content;
+}
+.todo{
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 6px;
+    width: 500px;
+}
